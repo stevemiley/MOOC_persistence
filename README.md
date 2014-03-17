@@ -18,7 +18,8 @@ After that we run a bunch of queries which transform and join the data into a si
 Please contact us if you have any questions - 
 
 sbsmiley@mac.com - Steve Miley
-whitmer@calstate.edu = John Whitmer 
+
+whitmer@calstate.edu - John Whitmer 
 
 
 
